@@ -363,7 +363,7 @@
 
 <details>
  <summary>Чек-листы</summary>
- https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit?gid=899462569#gid=899462569
+ [Чек-листы](https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit?gid=899462569#gid=899462569)
  </details>
 
  <details>
