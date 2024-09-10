@@ -351,6 +351,14 @@
   При отсутствии интернет-соединения появляется уведомление об ошибке. 
   Подробности см. на макетах.
 </detalis>
+
+<details>
+  <summary>Текущая версия приложения</summary>
+  clck.ru/3DCqCj
+  ![image](https://github.com/user-attachments/assets/72aec9dd-0884-4415-9390-bf7b0503abdc)
+</detalis>
+
+
    
 
    
