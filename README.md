@@ -356,7 +356,7 @@
  <summary>Макеты</summary>
   clck.ru/3DCqCj
   ![image](https://github.com/user-attachments/assets/72aec9dd-0884-4415-9390-bf7b0503abdc)
-</detalis>
+</details>
 
 
    
