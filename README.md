@@ -371,6 +371,11 @@
  https://karlen.youtrack.cloud/issues?q=%D1%82%D0%B5%D0%B3:%20%7Bsprint%203%7D
 </details>
 
+<details>
+ <summary>Отчёт о тестировании</summary>
+ https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit?gid=104825039#gid=104825039
+</details>
+
 
 
    
