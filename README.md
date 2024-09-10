@@ -376,27 +376,6 @@
  https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit?gid=104825039#gid=104825039
 </details>
 
-Отчет о тестировании Яндекс Метро
-Тестирование проводилось в следующем тестовом окружении: Android Studio /мобильное устройство Honor 8, ОС Android 9.0 Pie, разрешение экрана 1080х1920, диагональ 5.5
-Номер тестируемой версии приложения: Версия 3.6
-Все требования, затронутые изменениями, были покрыты чек-листом: https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit#gid=899462569
-Также написан регрессионный чек-лист: https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit#gid=1540435533
-Результаты выполнения тестов можно посмотреть здесь:  https://docs.google.com/spreadsheets/d/16HwEAH7wp681kDS9s_S6vHPUz6LUVxDAGI_oZ7Gw3WI/edit#gid=899462569
-Из 68 проверок успешно прошло 54 тестов,не прошло — 14 тестов.
-Список багов, найденных при тестировании, разбит по приоритетам:
-1.Блокирующие: [Не найдено]
-2.Критичные: [https://karlen.youtrack.cloud/issue/86M-47/Pri-smene-geolokacii-pole-otkuda-ostaetsya-zapolnennym-dannymi-proshloj-lokacii]
-3.Средний приоритет: [https://karlen.youtrack.cloud/issue/86M-49/Pri-nazhatie-na-knopku-Obratnaya-svyaz-perevodit-v-storonnee-prilozhenie ] [https://karlen.youtrack.cloud/issue/86M-48/Tema-ne-menyaetsya-na-temnyu-avtomaticheskij ] [https://karlen.youtrack.cloud/issue/86M-46/Pri-otsutstvii-internet-soedineniya-net-uvedomlenie-ob-oshibke ] [https://karlen.youtrack.cloud/issue/86M-43/Vremennoj-interval-marshruta-ne-obnovlyaetsya-esli-tekushee-vremya-prevyshaet-vremya-okonchaniya-marshruta ] 
-4.Низкий приоритет: [https://karlen.youtrack.cloud/issue/86M-45/Kartochki-marshruta-ne-sohranyayut-svoe-polozhenie-pri-perehode-iz-portretnoj-orientacii-v-albomnuyu ] [https://karlen.youtrack.cloud/issue/86M-44/Pri-smene-orientacii-s-portretnoj-na-landshaftnuyu-detali-marshruta-ne-otobrazhayutsya ] [https://karlen.youtrack.cloud/issue/86M-42/Istoriya-vybranyh-stancii-rabotaet-ne-korektno ] [ https://karlen.youtrack.cloud/issue/86M-50/Pri-nazhatii-na-stanciyu-pri-pomoshi-long-tapa-okno-kartochki-stancii-otkryvaetsya-v-svernutom-polozhenii  ] [ https://karlen.youtrack.cloud/issue/86M-52/Pri-smene-orientacii-ekrana-masshtab-postroennogo-marshruta-menyaetsya ]
-5.Незначительные:  [  https://karlen.youtrack.cloud/issue/86M-51/Pri-otkrytii-kartochki-stancii-s-knopkami-Otsyuda-i-Syuda-shema-menyaet-polozhenii  ]
-С учётом того, что блокирующих багов не найдено, но найден критический дефект который может ввести в заблуждение пользователя незнакомого с городом и несколько серьезных багов которые могу разочаровать пользователя в использовании данного приложения, команда тестирования считает что публикации новой версии приложения в Google Play возможно после их исправление.
-
-На написание тестовой документации ушло 8 часов
-Тестирование мобильного устройства заняло 3 часа (Android Studio работает не стабильно)
-Только несколько багов  могут помешать пользователю взаимодействовать с приложением .
-Было применено  Функциональное и регрессионное тестирование связанные с взаимодействием  мобильным устройством
-При тестировании Яндекс Метро после исправления багов стоит обратить внимание на тот функционал в котором были серьезные баги
-Могу порекомендовать убрать из требовании  (При нажатии на станцию при помощи лонг-тапа открывается окно карточки станции с кнопками «Отсюда» и «Сюда». При этом схема остаётся в том же положении, которое выбрал пользователь) жирным выделенную часть так как если схема карты не будет менять положение будет не удобно в пользовании так как карточка станции может закрыть выбранную станцию на карте!
 
 
 
