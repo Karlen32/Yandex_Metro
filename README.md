@@ -363,7 +363,7 @@
 
 <details>
  <summary>Чек-листы</summary>
- [Ссылка на чек-лист](https://docs.google.com/spreadsheets/d/16HwEAH7wp86k1D9Ss_SeVHPUz6LUVxDAGI_0Z7Gwg3Wl/edit#gid=89946256)
+ (https://docs.google.com/spreadsheets/d/16HwEAH7wp86k1D9Ss_SeVHPUz6LUVxDAGI_0Z7Gwg3Wl/edit#gid=89946256)
  </details>
 
  <details>
