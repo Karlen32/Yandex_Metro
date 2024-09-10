@@ -354,8 +354,11 @@
 
 <details>
  <summary>Макеты</summary>
-  clck.ru/3DCqCj
+  
+ https://www.figma.com/design/RzH5SqcLWrIPnQQW2fmitu/Metro-Dev?node-id=0-1&node-type=canvas&t=jPISq6uajtHlm1b4-0
+
   ![image](https://github.com/user-attachments/assets/72aec9dd-0884-4415-9390-bf7b0503abdc)
+  
 </details>
 
 
